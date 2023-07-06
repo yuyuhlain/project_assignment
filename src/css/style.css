@@ -1,0 +1,25 @@
+body{
+    background-color: #032;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 30px;
+}
+h1{
+    color: aquamarine;
+    text-align: center;
+}
+h2{
+    color: azure;
+    text-align: center;
+}
+#tx,td,dd{
+    color: rgb(51,0,31);
+}
+center{
+    align-content: center;
+    background: #471f1f;
+    margin-left: 250px;
+    border: 20px;
+    border-radius: 50px;
+    padding: 30px;
+    width: 650px;
+}
